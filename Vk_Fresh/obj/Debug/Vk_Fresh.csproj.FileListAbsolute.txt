@@ -1,0 +1,11 @@
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\bin\Debug\Vk_Fresh.exe.config
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\bin\Debug\Vk_Fresh.exe
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\bin\Debug\Vk_Fresh.pdb
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\obj\Debug\Vk_Fresh.Form1.resources
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\obj\Debug\Vk_Fresh.Properties.Resources.resources
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\obj\Debug\Vk_Fresh.csproj.GenerateResource.Cache
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\obj\Debug\Vk_Fresh.csproj.CoreCompileInputs.cache
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\obj\Debug\Vk_Fresh.exe
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\obj\Debug\Vk_Fresh.pdb
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\geomi\source\repos\Vk_Fresh\Vk_Fresh\obj\Debug\Vk_Fresh.csprojResolveAssemblyReference.cache
